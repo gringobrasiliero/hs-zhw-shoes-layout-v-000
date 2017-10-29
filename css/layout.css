@@ -20,6 +20,7 @@
 
 .clear {
   clear: both;
+  margin: 2%;
 }
 
 /* Posititoning Classes */
@@ -34,9 +35,7 @@ width: 32%;
   width: 66%;
 }
 
-.col-3 {
-  width: 100%;
-}
+
 
 [class*= "col-"] {
   margin-left: 2%;
